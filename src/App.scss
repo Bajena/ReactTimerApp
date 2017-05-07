@@ -18,3 +18,23 @@
     margin: 5px;
   }
 }
+
+.Stopwatch {
+  text-align: center;
+  margin-top: 100px;
+
+  .Stopwatch-title {
+    font-size: 20px;
+  }
+
+  .Stopwatch-hours,
+  .Stopwatch-minutes,
+  .Stopwatch-seconds {
+    display: inline;
+    margin-right: 10px;
+  }
+
+  .Deadline-input {
+    margin: 5px;
+  }
+}
